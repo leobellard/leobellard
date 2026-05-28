@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leo--bellard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-bellard/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-leobellard.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://leobellard.dev)
-[![Epitech](https://img.shields.io/badge/Epitech-Montpellier_2027-00BABC?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://epitech.eu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-bellard/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=code&logoColor=white)](https://leobellard.dev)
+[![Epitech](https://img.shields.io/badge/Epitech_Montpellier-00BABC?style=for-the-badge&logoColor=white)](https://epitech.eu)
 
 </div>
 
