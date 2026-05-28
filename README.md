@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Leo%20Bellard&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20AI%20Engineer%20%7C%20Epitech%20Montpellier&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Leo%20Bellard&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20Backend%20Developer%20%7C%20Epitech%20student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -50,20 +50,6 @@ My focus? **Shipping things that work, scale, and earn.**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
-
----
-
-## 🎯 Currently
-
-```python
-leo = {
-    "school":    "Epitech Montpellier, Bachelor 2025-2028",
-    "mindset":   "Developer first, student second",
-    "focus":     ["Huraria (minecraft server)", "Sport event App", "Sud-Sport internship"],
-    "learning":  ["Java", "PostreSQL", "Docker"],
-    "values":    ["Ship fast", "Think in systems", "Build to scale"],
-}
-```
 
 ---
 
